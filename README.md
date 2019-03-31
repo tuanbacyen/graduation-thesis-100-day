@@ -7,6 +7,11 @@
 
 ---
 
+## Day 6
+_3-30-2019_
+* Pass phase one protection
+---
+
 ## Day 5
 _3-29-2019_
 * Make slide for tomorrow
