@@ -7,6 +7,11 @@
 
 ---
 
+## Day 7
+_3-31-2019_
+* Eat and sleep
+---
+
 ## Day 6
 _3-30-2019_
 * Pass phase one protection
