@@ -9,6 +9,11 @@
 
 ---
 
+## Day 8
+_4-1-2019_
+* Design database
+---
+
 ## Day 7
 _3-31-2019_
 * Eat and sleep
