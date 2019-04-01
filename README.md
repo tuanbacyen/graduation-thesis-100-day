@@ -5,6 +5,8 @@
 
 **[Spec](https://docs.google.com/document/d/1L1aGhAY7FOruKf3_vlfWbICsUoGtlQQ-eRA1PRooWek/edit?usp=sharing)**
 
+**[DB diagram](https://app.sqldbm.com/MySQL/Share/XUUr6Oxl3rXfzzHNo4h2xUGFrngIE8md_DYjF4jNYw0)**
+
 ---
 
 ## Day 7
