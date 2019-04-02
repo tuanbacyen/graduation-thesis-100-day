@@ -7,6 +7,14 @@
 
 **[DB diagram](https://app.sqldbm.com/MySQL/Share/XUUr6Oxl3rXfzzHNo4h2xUGFrngIE8md_DYjF4jNYw0)**
 
+**[Source code server](https://github.com/tuanbacyen/graduation-thesis)**
+
+---
+
+## Day 9
+_4-2-2019_
+* Create project
+* Add template admin
 ---
 
 ## Day 8
