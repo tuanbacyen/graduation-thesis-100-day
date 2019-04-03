@@ -11,6 +11,12 @@
 
 ---
 
+## Day 10
+_4-3-2019_
+* Create CMS
+* Create schema
+---
+
 ## Day 9
 _4-2-2019_
 * Create project
