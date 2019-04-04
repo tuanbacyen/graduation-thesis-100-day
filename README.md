@@ -11,6 +11,12 @@
 
 ---
 
+## Day 11
+_4-4-2019_
+* CMS setting
+* CMS user
+---
+
 ## Day 10
 _4-3-2019_
 * Create CMS
