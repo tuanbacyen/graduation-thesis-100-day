@@ -11,6 +11,11 @@
 
 ---
 
+## Day 12
+_4-5-2019_
+* Manager user of admin
+---
+
 ## Day 11
 _4-4-2019_
 * CMS setting
