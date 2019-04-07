@@ -11,6 +11,12 @@
 
 ---
 
+## Day 13
+_4-6-2019_
+* Manager user of admin (done)
+* I18n
+---
+
 ## Day 12
 _4-5-2019_
 * Manager user of admin
