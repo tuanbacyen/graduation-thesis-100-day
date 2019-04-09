@@ -11,6 +11,11 @@
 
 ---
 
+## Day 16
+_4-9-2019_
+* Product so many case
+---
+
 ## Day 15
 _4-8-2019_
 * Category
