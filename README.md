@@ -11,6 +11,11 @@
 
 ---
 
+## Day 17
+_4-10-2019_
+* Product
+---
+
 ## Day 16
 _4-9-2019_
 * Product so many case
