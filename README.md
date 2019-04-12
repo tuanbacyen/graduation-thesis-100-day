@@ -11,6 +11,11 @@
 
 ---
 
+## Day 19
+_4-12-2019_
+* Setting api
+---
+
 ## Day 18
 _4-11-2019_
 * Done manager
