@@ -11,6 +11,12 @@
 
 ---
 
+## Day 25
+_4-18-2019_
+* VIP
+* product & warehouse
+---
+
 ## Day 24
 _4-17-2019_
 * NO thing
