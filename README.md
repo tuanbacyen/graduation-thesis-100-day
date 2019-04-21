@@ -11,6 +11,22 @@
 
 ---
 
+## Day 28
+_4-21-2019_
+* NO thing
+---
+
+## Day 27
+_4-20-2019_
+* NO thing
+---
+
+## Day 26
+_4-19-2019_
+* VIP
+* product & warehouse
+---
+
 ## Day 25
 _4-18-2019_
 * VIP
