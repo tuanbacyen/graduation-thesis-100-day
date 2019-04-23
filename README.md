@@ -11,6 +11,11 @@
 
 ---
 
+## Day 30
+_4-23-2019_
+* Warehouse fix all
+---
+
 ## Day 29
 _4-22-2019_
 * Warehouse fix
