@@ -10,6 +10,11 @@
 **[Source code server](https://github.com/tuanbacyen/graduation-thesis)**
 
 ---
+## Day 115
+_7-17-2019_
+* Then end. 9 point and Pass.
+* Learn every thing you want
+---
 
 ## Day 30
 _4-23-2019_
